@@ -1,0 +1,192 @@
+body
+{
+background:url(bg.gif);
+}
+
+.cela
+{
+position:relative;
+border:2px solid black;
+width:750px;
+margin: 20px auto;
+background-color:#FFFFFF;
+
+}
+
+.hlavicka
+{
+position:absolute;
+top:-15px;
+left:-15px;
+width:750px;
+height:120px;
+border:0px solid black;
+padding:0px;
+}
+.hlavicka img
+{
+border:2px solid black;
+}
+
+.cela p
+{
+padding-right:0 10px 0 0;
+margin:2px;
+font-size:11px;
+}
+
+.levy
+{
+float:left;
+margin-top:370px;
+border:0px solid black;
+width:200px;
+border-right:2px dotted white;
+text-align:left;
+
+}
+
+.levy img{
+border:0px;
+}
+
+.levy td, .levy table{
+border:0px;
+}
+
+.levy table{
+margin-left:20px;
+}
+
+.levy a .small{
+font-size:10px;
+}
+
+.levy p
+{
+text-align:justify;
+font-size:12px;
+margin:10px;
+padding-left:30px;
+}
+
+
+
+.logo
+{position:absolute;
+right:0px;
+top:0px;
+width:320px;
+padding:10px;
+text-align:center;
+}
+
+.text
+{
+float:left;
+width:520px;
+margin-top:370px;
+margin-left:-2px;
+padding:10px;
+border:0px solid black;
+
+text-align:justify;
+border-left:2px dotted white;
+}
+
+.paticka
+{
+clear:both;
+text-align:right;
+}
+
+p.loga
+{
+text-align:center;
+}
+h1
+{
+padding:0px;
+margin:0px;
+margin-top:5px;
+}
+
+ table
+{
+margin: auto;
+
+border:3px solid gray;
+}
+
+
+td, th
+{
+
+background:white;
+border: 1px solid gray;
+}
+
+
+.tlacitko
+{
+text-decoration:none;
+background:url("tlacitko.gif");
+text-align:center;
+margin:3px;
+width:129px;
+height:26px;
+font-weight:bold;
+font-size:20px;
+}
+
+.tlacitko a
+{
+color:white;
+text-decoration:none;
+}
+
+
+.tlacitko:hover
+{
+background:url("tlacitko2.gif");
+font-weight:bold;
+}
+
+ul.menu
+{
+font-size:20px;
+}
+
+a:link
+{
+color:#0000CC;
+}
+
+a:visited
+{
+color:#000000;
+}
+
+a:hover
+{
+color:#000000;
+}
+
+p.adresa
+{
+font-size:14px;
+}
+
+
+
+h3{
+text-align:left;
+}
+
+
+
+
+h4
+{
+text-align:center;
+}
